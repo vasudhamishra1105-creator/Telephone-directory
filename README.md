@@ -51,9 +51,11 @@ The project focuses on converting a manually maintained employee directory into 
 The Excel-based approach keeps the application lightweight while demonstrating practical **file handling, JSON conversion, API integration, validation, and CRUD implementation**.
 
 ## Project Context
-Developed as part of my **Industrial Vocational Training cum Internship at Hindalco Industries Limited, Mahan Aluminium**
+I Developed this project as part of my **Industrial Vocational Training cum Internship at Hindalco Industries Limited, Mahan Aluminium**
 
-## 👩‍💻 Author
 
-**Vasudha Mishra**
-B.E. Computer Science & Engineering | Chandigarh University
+
+
+
+
+
