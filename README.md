@@ -39,13 +39,14 @@ The application includes APIs for:
 Check your installation:
 node -v
 npm -v
+
 **Setup and Run Locally**
 1. Clone or download this repository.
 2. Open a terminal in the TelephoneDirectory project directory (the folder containing server.js).
 3. Install the project dependencies:
-   npm install
+   **npm install**
 4. Start the backend server:
-   node server.js
+   **node server.js**
 5. Open the application in your browser:
    **http://localhost:3000/ui.html**
 Keep the terminal running while using the application. Press Ctrl + C to stop the server.
