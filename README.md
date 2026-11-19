@@ -31,9 +31,26 @@ The application includes APIs for:
 * Add employee
 * Update employee
 * Delete employee
+  
+**Prerequisites**
+- Node.js (Node.js 18 or later recommended)
+- npm (included with Node.js)
+- A modern web browser
+Check your installation:
+node -v
+npm -v
+**Setup and Run Locally**
+1. Clone or download this repository.
+2. Open a terminal in the TelephoneDirectory project directory (the folder containing server.js).
+3. Install the project dependencies:
+   npm install
+4. Start the backend server:
+   node server.js
+5. Open the application in your browser:
+   **http://localhost:3000/ui.html**
+Keep the terminal running while using the application. Press Ctrl + C to stop the server.
 
 ##  Tech Stack
-
 | Technology     | Purpose                            |
 | -------------- | ---------------------------------- |
 | **HTML**       | Page structure                     |
@@ -51,11 +68,6 @@ The project focuses on converting a manually maintained employee directory into 
 The Excel-based approach keeps the application lightweight while demonstrating practical **file handling, JSON conversion, API integration, validation, and CRUD implementation**.
 
 ## Project Context
-I Developed this project as part of my **Industrial Vocational Training cum Internship at Hindalco Industries Limited, Mahan Aluminium**
-
-
-
-
-
+I Developed this project using sample data as part of my **Industrial Vocational Training cum Internship**
 
 
